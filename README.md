@@ -27,7 +27,7 @@ sudo nano /etc/nginx/sites-enabled/default
 
 
 
-server {
+       server {
 
        listen 80 default_server;
 
